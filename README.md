@@ -40,6 +40,8 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
                 <img src="assets/postgreSQL.png" height="32px" alt="postgreSQL" title="PostgreSQL"/>
                 &nbsp;
                 <img src="assets/mySQL.png" height="32px" alt="mySQL" title="MySQL"/>
+                &nbsp;
+                <img src="assets/dbeaver.png" height="32px" alt="dbeaver" title="Dbeaver"/>
             </td>
         </tr>
         <tr>
@@ -54,17 +56,17 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
             <td>
                 <img src="assets/github.png" height="32px" alt="github" title="Github"/>
                 &nbsp;
-                <img src="assets/gitlab.png" height="32px" alt="github" title="Github"/>
+                <img src="assets/gitlab.png" height="32px" alt="gitlab" title="Gitlab"/>
             </td>
         </tr>
         <tr>
-            <td>:computer: <code>Text Editor</code></td>
+            <td>:computer: <code>IDE</code></td>
             <td>
                 <img src="assets/visualcode.png" height="32px" alt="vscode" title="VSCode"/>
                 &nbsp;
                 <img src="assets/visualstudio.png" height="32px" alt="vscode" title="VSCode"/>
                 &nbsp;
-                <img src="assets/visualstudio.png" height="32px" alt="vscode" title="VSCode"/>
+                <img src="assets/colab.png" height="32px" alt="ggcolab" title="GGcolab"/>
             </td>
         </tr>
         <tr>
@@ -84,6 +86,16 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
                 <img src="assets/slack.png" height="32px" alt="slack" title="Slack"/>
                 &nbsp;
                 <img src="assets/jira.png" height="32px" alt="jira" title="Jira"/>
+            </td>
+        </tr>
+        <tr>
+            <td>:diff: <code>other</code></td>
+            <td>
+                <img src="assets/gns3.png" height="32px" alt="gns3" title="Gns3"/>
+                &nbsp;
+                <img src="assets/postman.png" height="32px" alt="postman" title="Postman"/>
+                &nbsp;
+                <img src="assets/swagger.png" height="32px" alt="swagger" title="Swagger"/>
             </td>
         </tr>
     </tbody>
