@@ -89,7 +89,7 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
             </td>
         </tr>
         <tr>
-            <td>:sparkles: <code>other</code></td>
+            <td>:sparkles: <code>Other</code></td>
             <td>
                 <img src="assets/gns3.png" height="32px" alt="gns3" title="Gns3"/>
                 &nbsp;
@@ -103,8 +103,9 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
             </td>
         </tr>
     </tbody>
-    - Framework: Nodejs, Reactjs, Gin, Flask
 </table>
+
+- Framework: Nodejs, Reactjs, Gin, Flask
 
 <!--
 <picture>
