@@ -21,7 +21,7 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
         <tr>
             <td>:capital_abcd: <code>Languages</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32px" alt="javascript" title="Javascript"/>
+                <img src="assets/javascript.png" height="32px" alt="javascript" title="Javascript"/>
                 &nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
                 &nbsp;
