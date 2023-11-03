@@ -45,41 +45,45 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
         <tr>
             <td>:arrows_clockwise: <code>CI/CD</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32px" alt="dockerfile" title="Docker"/>
-                <!-- &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" height="32px" alt="circleci" title="CircleCI"/> -->
+                <img src="assets/docker.png" height="32px" alt="dockerfile" title="Docker"/>
                 &nbsp;
-                <img src="https://user-images.githubusercontent.com/64480713/213927246-c4deafeb-67cb-4fca-8829-576dfbbfdd3a.svg" height="32px" alt="kubernetes" title="Kubernetes"/>
             </td>
         </tr>
         <tr>
             <td>:open_file_folder: <code>SCM</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32px" alt="github" title="Github"/>
+                <img src="assets/github.png" height="32px" alt="github" title="Github"/>
+                &nbsp;
+                <img src="assets/gitlab.png" height="32px" alt="github" title="Github"/>
             </td>
         </tr>
         <tr>
             <td>:computer: <code>Text Editor</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32px" alt="vscode" title="VSCode"/>
+                <img src="assets/visualcode.png" height="32px" alt="vscode" title="VSCode"/>
+                &nbsp;
+                <img src="assets/visualstudio.png" height="32px" alt="vscode" title="VSCode"/>
+                &nbsp;
+                <img src="assets/visualstudio.png" height="32px" alt="vscode" title="VSCode"/>
             </td>
         </tr>
         <tr>
             <td>:art: <code>Design</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32px" alt="figma" title="Figma"/>
+                <img src="assets/figma.png" height="32px" alt="figma" title="Figma"/>
+                &nbsp;
+                <img src="assets/pts.png" height="32px" alt="figma" title="Figma"/>
                 &nbsp;
             </td>
         </tr>
         <tr>
             <td>:handshake: <code>Collaboration</code></td>
             <td>
-                <!-- Source: https://atlassian.design/resources/logo-library -->
-                <img src="https://user-images.githubusercontent.com/64480713/213927197-8c896829-476c-4ad7-b19c-1edff6cb2ad4.svg" height="32px" alt="trello" title="Trello"/>
+                <img src="assets/trello.png" height="32px" alt="trello" title="Trello"/>
                 &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="32px" alt="slack" title="Slack"/>
-                <!-- Source: https://atlassian.design/resources/logo-library -->
-                <img src="https://user-images.githubusercontent.com/64480713/213927110-4ce88d77-e5ea-4806-961d-0ef0166d5978.svg" height="32px" alt="jira" title="Jira"/>
+                <img src="assets/slack.png" height="32px" alt="slack" title="Slack"/>
+                &nbsp;
+                <img src="assets/jira.png" height="32px" alt="jira" title="Jira"/>
             </td>
         </tr>
     </tbody>
