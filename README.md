@@ -1,4 +1,5 @@
 ### <h1>datnd </h1>👋
+
 Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho Chi Minh National University**. I'm looking for a **web developer position.**
 
 <details id="profile" open>
@@ -11,6 +12,7 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
 - :envelope: gmail: nddat1811@gmail.com
 
 # <h4>Another platform </h4>
+
 <a href="https://www.linkedin.com/in/nddat1811/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32px" width="32px" alt="linkedin" title="My LinkedIn profile"/>
 </a>
@@ -23,19 +25,21 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
             <td>
                 <img src="assets/javascript.png" height="32px" alt="javascript" title="Javascript"/>
                 &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32px" alt="python" title="Python"/>
+                <img src="assets/python.png" height="32px" alt="python" title="Python"/>
                 &nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32px" alt="typescript" title="Typescript"/>
+                <img src="assets/golang.png" height="32px" alt="typescript" title="Typescript"/>
                &nbsp;
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32px" alt="go" title="Go"/>
+              <img src="assets/c-logo.png" height="32px" alt="go" title="Go"/>
             </td>
         </tr>
         <tr>
             <td>:package: <code>Database</code></td>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32px" alt="mongodb" title="MongoDB"/>
+                <img src="assets/mongo.png" height="32px" alt="mongodb" title="MongoDB"/>
                 &nbsp;
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="32px" alt="postgres" title="Postgres"/>
+                <img src="assets/postgreSQL.png" height="32px" alt="postgreSQL" title="PostgreSQL"/>
+                &nbsp;
+                <img src="assets/mySQL.png" height="32px" alt="mySQL" title="MySQL"/>
             </td>
         </tr>
         <tr>
