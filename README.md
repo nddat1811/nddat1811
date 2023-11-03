@@ -28,8 +28,8 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
                 <img src="assets/python.png" height="32px" alt="python" title="Python"/>
                 &nbsp;
                 <img src="assets/golang.png" height="32px" alt="typescript" title="Typescript"/>
-               &nbsp;
-              <img src="assets/c-logo.png" height="32px" alt="go" title="Go"/>
+                &nbsp;
+                <img src="assets/c-logo.png" height="32px" alt="go" title="Go"/>
             </td>
         </tr>
         <tr>
@@ -89,16 +89,21 @@ Hi, I'm Adam (datnd). I'm from Vietnam. I study in **University of Science - Ho 
             </td>
         </tr>
         <tr>
-            <td>:diff: <code>other</code></td>
+            <td>:sparkles: <code>other</code></td>
             <td>
                 <img src="assets/gns3.png" height="32px" alt="gns3" title="Gns3"/>
                 &nbsp;
                 <img src="assets/postman.png" height="32px" alt="postman" title="Postman"/>
                 &nbsp;
                 <img src="assets/swagger.png" height="32px" alt="swagger" title="Swagger"/>
+                &nbsp;
+                <img src="assets/vnware.png" height="32px" alt="vnware" title="Vnware"/>
+                &nbsp;
+                <img src="assets/netlify.png" height="32px" alt="netlify" title="Netlify"/>
             </td>
         </tr>
     </tbody>
+    - Framework: Nodejs, Reactjs, Gin, Flask
 </table>
 
 <!--
